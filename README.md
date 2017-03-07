@@ -6,6 +6,7 @@ Where: Advanced Engineering Research Building, Evansdale Campus, West Virginia U
 What: April 7th will be focused around Ansible, April 8th will be focused around a Fedora Bug Squashing Party
 
 
+
 ## April 7th
 
 ```
